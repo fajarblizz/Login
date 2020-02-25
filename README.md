@@ -1,5 +1,6 @@
-# vue-vuex-registration-login-example
+ vue-vuex-registration-login
 
-Vue + Vuex - User Registration and Login Tutorial & Example
+Login menggunakan VUEX + VUE
 
-To see a demo and further details go to http://jasonwatmore.com/post/2018/07/14/vue-vuex-user-registration-and-login-tutorial-example
+RUN APLIKASI
+npm start
